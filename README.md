@@ -1,5 +1,7 @@
 # BorderlessMC
 
+[![Minecraft](https://img.shields.io/badge/Minecraft-1.21.11-brightgreen?style=flat-square)](https://github.com/jjackb14/BorderlessMC/releases)
+
 Borderless fullscreen for Minecraft (Fabric) — runs fullscreen as a borderless window on the monitor the game is currently on.
 
 ## Features
