@@ -3,7 +3,7 @@
 	"package": "com.jjackb14.borderlessmc.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
-		"ExampleMixin"
+		"WindowMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1

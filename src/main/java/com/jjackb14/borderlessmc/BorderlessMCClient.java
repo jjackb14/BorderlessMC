@@ -1,4 +1,11 @@
 package com.jjackb14.borderlessmc;
 
-public class BorderlessMCClient {
+import net.fabricmc.api.ClientModInitializer;
+
+public class BorderlessMCClient implements ClientModInitializer {
+
+    @Override
+    public void onInitializeClient() {
+
+    }
 }
